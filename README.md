@@ -1,3 +1,9 @@
+## HyLauncher
+
+Nothing here yet. I just wish to learn rust and im using hyprland, so my goal is to make dlauncher compatible with hyprland and run as a layer.
+
+Secondary goal is creating a power menu plugin and a polkit agent plugin.
+
 # Dlauncher (A Rust Ulauncher port)
 Basically a one to one copy of Ulauncher, with a different backend.
 
